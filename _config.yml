@@ -1,0 +1,28 @@
+name: Ash Bloom
+favicon: null
+layout_spectrum: 0.40185672463849187
+typography_spectrum: 0.2215153370052576
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7979218240361661
+  lightness: 0.3186615912709385
+  saturation: 0.9009863031096756
+  rhythmicContrast: 0.8008668145630509
+purpose: []
